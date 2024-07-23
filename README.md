@@ -1,1 +1,1 @@
-# Module-end-project
+MODULE-END-PROJECT
